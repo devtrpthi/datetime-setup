@@ -1,9 +1,9 @@
 <h1>WAP to perform following operatons:</h1>
-a.date time coversions between timezones ( Example UTC to US/Eastern etc)
-b.date operations to add/subtract days from a given date 
-c.fetch number of days between two dates supplied
-d.fetch number of days excluding weekends 
-e.fetch number of days since EPOCH
+a.date time coversions between timezones ( Example UTC to US/Eastern etc)</br>
+b.date operations to add/subtract days from a given date </br>
+c.fetch number of days between two dates supplied</br>
+d.fetch number of days excluding weekends </br>
+e.fetch number of days since EPOCH </br>
 f.fetch number of business days between two days excluding holidays
 	  (holiday calendar provided in a file in the following format)
          holidays.dat
